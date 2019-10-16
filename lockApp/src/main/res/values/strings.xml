@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <!-- 请替换成在语音云官网申请的appid -->
+    <string name="app_id">5d08dcc3</string>
+    <string name="app_name">加密记事本</string>
+    <string name="app_mixed_name">混合验证</string>
+    <!-- 公用字段值 -->
+    <string name="hint_flash_opened">闪光灯已开启</string>
+    <string name="hint_flash_closed">闪光灯已关闭</string>
+    <string name="hint_read_pwd_below">请读出下方数字：</string>
+    <!-- 混合验证主页面 -->
+    <string name="main_txt_title">混合验证</string>
+    <string name="main_reg_hint_logout_first">请先退出登录</string>
+    <string name="main_exit_hint_double_click">再次按下退出</string>
+    <!-- 混合验证声纹注册页面 -->
+    <string name="vocal_register_txt_title">声纹注册</string>
+    <string name="vocal_register_press_hint">请按住麦克风说话</string>
+    <string name="vocal_register_listening_hint">倾听中，读完后请松开</string>
+    <string name="vocal_register_mismatch_hint">您读的数字不一致，请重读</string>
+    <string name="vocal_register_failure_hint">声纹注册失败，请点击话筒重试</string>
+    <string name="vocal_register_download_fail_hint">声纹密码获取失败：</string>
+    <string name="vocal_register_engine_error_hint">声纹引擎错误</string>
+    <string name="vocal_register_success_hint">声纹注册成功</string>
+    <string name="vocal_register_model_existed">声纹模型已存在，请用新用户名注册</string>
+    <string name="vocal_register_error_hint">声纹注册出错：</string>
+    <!-- 混合验证登录页面 -->
+    <string name="login_txt_title">人脸声纹登录</string>
+    <string name="login_operation_hint">请对准面部，读出下方数字</string>
+    <string name="login_failure_hint">混合验证失败</string>
+    <string name="login_success_hint">混合验证成功</string>
+    <string name="login_hint_verifying">正在验证中，请稍候再试</string>
+    <string name="login_hint_engine_error">声纹验证失败：声纹引擎错误</string>
+    <string name="login_hint_read_different">声纹验证失败：您所读的数字不一致</string>
+    <string name="login_hint_interrupted">检测到操作被打断，请重试</string>
+</resources>

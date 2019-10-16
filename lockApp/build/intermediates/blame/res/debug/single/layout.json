@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window_content.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\popup_window_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vocal_demo.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_vocal_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notepad.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_notepad.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_group.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\item_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mixed_verify.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_mixed_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_face_demo.xml",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\layout\\activity_face_demo.xml"
+    }
+]

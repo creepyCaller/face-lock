@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_frame.png",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\drawable-hdpi\\view_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mic.png",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_demo.png",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\drawable-hdpi\\icon_demo.png"
+    },
+    {
+        "merged": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mic_p.png",
+        "source": "C:\\Users\\57628\\AndroidStudioProjects\\Lock\\lockApp\\src\\main\\res\\drawable-hdpi\\mic_p.png"
+    }
+]
